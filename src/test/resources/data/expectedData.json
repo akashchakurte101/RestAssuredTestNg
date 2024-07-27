@@ -1,0 +1,16 @@
+{
+  "platform" : {
+    "login" : {
+      "invalid password login description": "Incorrect password. kindly check your password carefully",
+      "valid Login description": "Login successful",
+      "invalid username login description": "Mobile number is not valid"
+    },
+    "dashBoard" : {
+
+    },
+    "pg": {
+      "Bank Size": 81
+    }
+  }
+
+}

@@ -1,0 +1,1 @@
+{"uuid":"71c4fd57-902b-47f4-9f21-34b7b53a52be","name":"All Test Suite","children":["c06690a9-79dd-4673-ab47-6c07ecdc8a91"],"befores":[{"name":"setAllureEnvironment","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1722073738200,"stop":1722073738396}],"afters":[],"start":1722073738173,"stop":1722073738537}
